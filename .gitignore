@@ -1,0 +1,57 @@
+
+# IDE
+
+.idea/
+
+
+
+# CLion / CMake build dirs
+
+cmake-build-*/
+
+build/
+
+out/
+
+
+
+# CMake generated files
+
+CMakeFiles/
+
+CMakeCache.txt
+
+cmake_install.cmake
+
+Makefile
+
+compile_commands.json
+
+
+
+# C/C++ build artifacts
+
+*.o
+
+*.obj
+
+*.exe
+
+*.out
+
+*.a
+
+*.so
+
+*.dll
+
+*.dylib
+
+
+
+# OS junk
+
+.DS_Store
+
+Thumbs.db
+
